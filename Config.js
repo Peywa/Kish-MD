@@ -2,8 +2,8 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernumber = ['254743318811']
-global.ownername = "IAN CODES"//owner name
+global.ownernumber = ['13305972014']
+global.ownername = "🅜🅡. 🅟🅔🅨🅦🅐"//owner name
 global.ytname = "YT: ℂ𝕆𝔻𝔼_𝕀𝕋 𝔹𝕆𝕋 Botz.inc"
 global.socialm = "GitHub: Peywa"
 global.location = "Nairobi/Kenya"
@@ -13,10 +13,10 @@ global.botname = 'ℂ𝕆𝔻𝔼_𝕀𝕋 𝔹𝕆𝕋' //name of the bot
 //sticker details
 global.stickername = 'ℂ𝕆𝔻𝔼_𝕀𝕋 𝔹𝕆𝕋'
 global.packname = 'Sticker By'
-global.author = 'MR.PEYWA'
+global.author = '🅜🅡. 🅟🅔🅨🅦🅐'
 //console view/theme
 global.themeemoji = '𓅃'
-global.wm = "MR. PEYWA."
+global.wm = "🅜🅡. 🅟🅔🅨🅦🅐."
 
 //theme link
 //global.link = 'https://chat.whatsapp.com/Cw6bgtSB0Wm7wDEP1e9WPw'
@@ -26,7 +26,7 @@ global.prefa = ['.']
 
 //false=disable and true=enable
 global.welcome = false //auto welcome
-global.autoRecording = false //auto recording
+global.autoRecording = true //auto recording
 global.autoTyping = true //auto typing
 global.autorecordtype = false //auto typing + recording
 global.autoread = false //auto read messages
